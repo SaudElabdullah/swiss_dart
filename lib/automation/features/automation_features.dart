@@ -38,5 +38,6 @@ class AutomationFeatures {
         );
       }
     }
+    stdout.writeln('Done!');
   }
 }
